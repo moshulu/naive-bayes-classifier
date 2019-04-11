@@ -12,11 +12,11 @@ Clone the repository. Then, open a command prompt to the directory you cloned th
 
 ```
 
-It should output something like ![alt text](https://imgur.com/gbWXQP2 "The sample output.")
+It should output something like ![alt text](https://imgur.com/gbWXQP2.png "The sample output.")
 
 ## Training dataset and directions
 The training dataset and directions were given by Professor Ling Zheng, of Monmouth University. All rights to these images go to her.
 
- ![alt text](https://imgur.com/YI3qn1a "The training dataset")
+ ![alt text](https://imgur.com/YI3qn1a.png "The training dataset")
 
- ![alt text](https://imgur.com/AXmVC5K "The provided directions by Professor Zheng")
+ ![alt text](https://imgur.com/AXmVC5K.png "The provided directions by Professor Zheng")
